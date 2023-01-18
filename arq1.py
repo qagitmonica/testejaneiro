@@ -1,1 +1,1 @@
-f  = os.walk('bruacas23.txt', 'r')
+f  = os.walk('bruacasok23.txt', 'r')
