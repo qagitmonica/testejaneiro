@@ -1,1 +1,1 @@
-arquivo.py
+f  = os.walk('bruacas23.txt', 'r')
